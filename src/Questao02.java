@@ -6,7 +6,7 @@ public class Questao02 {
 		while (j >= 0) {
 			System.out.print("I=" + i + " J=" + j + "\n");
 			i += 3;
-			j = j - 5;
+			j = j - 5 ;
 		}
 	}
 }
